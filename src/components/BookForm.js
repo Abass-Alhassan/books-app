@@ -4,7 +4,7 @@ function BookForm() {
   return (
     <div className='row'>
         <span className='col s2'/>
-        <form className='card column s8'>
+        <form className='card col s8'>
             <div className='row'>
                 <div className='input-field col s6'>
                     <input id='book_title' type='text' className='validate'/>
